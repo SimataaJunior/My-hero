@@ -1,4 +1,23 @@
-body {
+html body{
+    margin:0%;
+    padding: 0;
+    
+}
+Body {
 
-    background-color: cadetblue;
+    background-color: rgb(49, 148, 7);
+}
+
+header img {
+    width: 300px; height: 400px;
+    margin: 20px;
+    padding: 20px;
+    border: 20px solid lightslategray;
+    border-radius: 100%;
+
+}
+header{
+    text-align:center; 
+    line-height: 0;
+    background-color: rgb(1, 48, 43)
 }
